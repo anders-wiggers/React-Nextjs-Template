@@ -3,10 +3,12 @@
 # React Next.js Webapplication Template
 
 This is the boiler plate for a react/next.js webapplication
+![Alt text](https://i.imgur.com/aQLcJ5C.png?raw=true "Optional Title")
 
 ## Getting Started
 
-The template is build with React and Next.JS
+This template is build with Next.js and comes with a prebuild compontent `layout.js` which sets default body stylling, site title, and import bootstrap. The layout can be wrappen around any content. </br>
+
 
 ### Prerequisites
 
@@ -16,7 +18,7 @@ MacOS
 ```
 brew install node
 ```
-linux
+Linux
 ```
 sudo apt-get install nodejs
 ```
@@ -30,12 +32,14 @@ After cloning the repository simply install with npm
 cd repo && npm install
 ```
 
-### Building 
+### Developing 
 After the installation you can start editing in the code, to start the development server can be started by typing
 
 ```
 npm run dev
 ```
+
+
 ## Built With
 
 * [Next.JS](https://nextjs.org/) - The web framework used
